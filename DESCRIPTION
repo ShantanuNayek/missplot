@@ -1,0 +1,10 @@
+Package: missplot
+Type: Package
+Title: Analysis of Randomised Block Design and Latin Square Design When There is One Missing Observation
+Version: 0.1.0
+Author: Saheli Datta , Shantanu Nayek
+Maintainer: Shantanu Nayek <shantanuashis@gmail.com>
+Description: Testing of differential effects of treatments in Randomised Block Design and Latin Square Design when there is one missing observation.
+License: GPL-2
+Encoding: UTF-8
+RoxygenNote: 7.1.2
